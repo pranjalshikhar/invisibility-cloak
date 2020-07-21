@@ -1,4 +1,5 @@
 # Invsibility Cloak Filter
+![alt text](https://github.com/pranjalshikhar/invisibility-cloak/blob/master/snapshot.jpeg)
 
 _The project comprises of 5 simple steps:_
 1. Importing the required libraries.
