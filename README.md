@@ -8,4 +8,4 @@ _The project comprises of 5 simple steps:_
 4. Segment out the red colored cloth by generating a mask. [used in code]
 5. Generate the final augmented output to create a magical effect. [output.avi]
 
-**Medium : ** https://medium.com/@pranjalshikhar/invisibility-cloak-filter-e6807073cf05 
+**Medium : https://medium.com/@pranjalshikhar/invisibility-cloak-filter-e6807073cf05**
